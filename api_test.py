@@ -1,3 +1,6 @@
+# Copyright (c) 2025 [B. C. PUSHYA]
+# Licensed under the MIT License (see LICENSE for details)
+
 import requests
 import json
 import numpy as np
