@@ -1,3 +1,6 @@
+# Copyright (c) 2025 [B. C. PUSHYA]
+# Licensed under the MIT License (see LICENSE for details)
+
 from flask import Flask, request, jsonify
 import numpy as np
 import tensorflow as tf
