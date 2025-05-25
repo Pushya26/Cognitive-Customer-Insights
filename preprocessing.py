@@ -1,3 +1,6 @@
+# Copyright (c) 2025 [B. C. PUSHYA]
+# Licensed under the MIT License (see LICENSE for details)
+
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
