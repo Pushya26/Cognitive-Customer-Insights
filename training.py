@@ -1,3 +1,6 @@
+# Copyright (c) 2025 [B. C. PUSHYA]
+# Licensed under the MIT License (see LICENSE for details)
+
 import numpy as np
 import pandas as pd
 import tensorflow as tf
